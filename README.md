@@ -1,2 +1,2 @@
-# tuling.net
-Tuling Robot .NET SDK
+# turing.net
+Turing Robot .NET SDK
