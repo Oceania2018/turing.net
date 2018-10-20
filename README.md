@@ -1,2 +1,2 @@
 # turing.net
-Turing Robot .NET SDK
+Turing Robot (图灵机器人) .NET SDK http://www.tuling123.com
